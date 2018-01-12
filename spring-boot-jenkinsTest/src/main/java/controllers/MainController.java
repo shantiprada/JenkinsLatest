@@ -8,6 +8,6 @@ public class MainController {
 
   @RequestMapping("/greetings")
   public String index() {
-    return "Shanti Updated second time Hello World!!!";
+    return "Now Cloud Foundry should work from jenkins time Hello World!!!";
   }
 }
