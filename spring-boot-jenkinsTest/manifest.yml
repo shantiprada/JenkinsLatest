@@ -1,5 +1,0 @@
----
-applications:
-- name: SampleJenkinsTest
-  memory: 512M
-  instances: 2
